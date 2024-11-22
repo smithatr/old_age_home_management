@@ -20,3 +20,8 @@ The **Old Age Home Management System** enhances operational efficiency by automa
 - **Improved Care for Seniors:** Ensures timely and organized care for elderly residents.  
 - **Operational Efficiency:** Reduces paperwork and enhances the management process.
 
+- ![Screenshot (485)](https://github.com/user-attachments/assets/73abb473-d413-43c1-8b16-0d244a48bdb9)
+
+![image](https://github.com/user-attachments/assets/ccb537e7-5b5d-44b5-9929-0171649a7877)
+
+
